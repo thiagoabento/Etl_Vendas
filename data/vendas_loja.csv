@@ -1,0 +1,101 @@
+id_pedido,cliente,produto,categoria,quantidade,preco_unitario,data_pedido,estado
+1,Agatha Dias,Tênis,Calçados,1,29.39,2025-06-01,SP
+2,Sabrina Mendes,Jaqueta,Vestuário,1,2828.39,2025-05-21,RS
+3,Marcos Vinicius Lima,Tênis,Calçados,5,2779.91,2025-06-11,RJ
+4,Dr. Heitor Almeida,Camiseta,Vestuário,3,1787.0,2025-06-18,RJ
+5,Larissa Silva,Perfume,Beleza,5,96.52,2025-06-06,BA
+6,Davi Lucca Monteiro,Smartphone,Eletrônicos,5,1564.46,2025-06-01,SP
+7,Marcela Azevedo,Camiseta,Vestuário,2,1273.73,2025-06-03,PR
+8,Dra. Lavínia Araújo,Shampoo,Beleza,1,294.88,2025-06-16,BA
+9,Dra. Melissa da Costa,Notebook,Eletrônicos,2,778.48,2025-05-30,SP
+10,Isabelly Ferreira,Romance,Livros,3,2181.2,2025-05-20,RS
+11,Sr. Pietro Jesus,Blusa,Vestuário,2,672.11,2025-06-08,MG
+12,Ana Ferreira,Carteira,Acessórios,3,167.3,2025-06-05,RJ
+13,Leandro da Conceição,Monitor,Eletrônicos,2,1557.51,2025-05-29,SP
+14,Raquel Cardoso,Calça,Vestuário,4,314.34,2025-06-10,PR
+15,João Miguel da Conceição,Biografia,Livros,1,662.68,2025-06-11,RS
+16,Cauã Gomes,Jaqueta,Vestuário,5,23.98,2025-05-29,BA
+17,Ian Nunes,Bota,Calçados,3,2458.96,2025-05-27,RS
+18,Sofia Vieira,Romance,Livros,2,2512.51,2025-06-03,RJ
+19,Sra. Luiza Castro,Ficção,Livros,5,1564.89,2025-06-13,BA
+20,Caio Aragão,Creme,Beleza,4,1845.32,2025-05-25,RS
+21,Miguel Monteiro,Bota,Calçados,5,617.14,2025-06-07,SP
+22,Isadora Oliveira,Romance,Livros,1,29.83,2025-05-27,BA
+23,Stephany Nogueira,Creme,Beleza,4,2969.51,2025-05-21,PR
+24,Pedro Lucas Teixeira,Romance,Livros,2,1308.37,2025-05-24,BA
+25,Alice Azevedo,Shampoo,Beleza,5,2670.09,2025-06-10,RJ
+26,Matheus da Mata,Ficção,Livros,3,1751.02,2025-05-22,MG
+27,Srta. Sophie Vieira,Shampoo,Beleza,1,1302.84,2025-06-18,PR
+28,Luiz Felipe Pinto,Monitor,Eletrônicos,4,509.6,2025-06-13,RJ
+29,Bruna Cardoso,Calça,Vestuário,3,1278.99,2025-05-26,RJ
+30,Mirella Pereira,Perfume,Beleza,5,2415.72,2025-06-01,RS
+31,Maitê Costela,Fone de Ouvido,Eletrônicos,1,2530.9,2025-05-23,SP
+32,Sr. Calebe Pereira,Calça,Vestuário,2,2308.89,2025-05-31,SP
+33,Beatriz Silveira,Camiseta,Vestuário,4,2855.13,2025-06-01,RJ
+34,Maysa Barbosa,Jaqueta,Vestuário,3,47.14,2025-05-21,MG
+35,Dr. Antônio Rodrigues,Calça,Vestuário,4,1206.34,2025-06-17,RS
+36,Marina Azevedo,Relógio,Acessórios,1,1236.33,2025-06-02,BA
+37,Thiago Teixeira,Blusa,Vestuário,2,1329.97,2025-06-14,BA
+38,Larissa Freitas,Mochila,Acessórios,5,1002.23,2025-05-24,RS
+39,Bianca Gomes,Relógio,Acessórios,1,598.32,2025-06-18,BA
+40,Emanuelly Teixeira,Biografia,Livros,4,2351.77,2025-05-29,RJ
+41,Ana Luiza Ramos,Bota,Calçados,3,2105.77,2025-06-10,RS
+42,Alexia Pires,Bota,Calçados,4,1856.99,2025-06-03,RJ
+43,Kaique Freitas,Relógio,Acessórios,3,440.72,2025-06-08,RJ
+44,Isabella Viana,Mochila,Acessórios,2,2842.03,2025-05-26,RS
+45,Vinicius da Luz,Ficção,Livros,4,2180.35,2025-06-01,MG
+46,Alexandre Jesus,Jaqueta,Vestuário,5,414.84,2025-06-05,PR
+47,Miguel Viana,Perfume,Beleza,1,2258.09,2025-05-20,SP
+48,Fernando Cardoso,Biografia,Livros,4,2703.32,2025-05-30,SP
+49,Melissa Sales,Creme,Beleza,2,1107.76,2025-05-28,MG
+50,Maria Sophia da Costa,Perfume,Beleza,1,2837.76,2025-05-23,RJ
+51,Elisa Viana,Smartphone,Eletrônicos,3,1801.71,2025-06-04,PR
+52,Maitê Lima,Shampoo,Beleza,5,2722.58,2025-06-01,PR
+53,Gustavo Henrique Costela,Biografia,Livros,2,2277.98,2025-05-20,RS
+54,Maria Vitória Cardoso,Calça,Vestuário,5,567.78,2025-06-11,RJ
+55,Carolina Azevedo,Relógio,Acessórios,2,2667.82,2025-06-09,RS
+56,Vinicius Rocha,Sandália,Calçados,1,1692.61,2025-06-12,MG
+57,Lívia da Luz,Biografia,Livros,5,179.23,2025-05-22,RJ
+58,Isadora Carvalho,Smartphone,Eletrônicos,5,986.59,2025-05-27,MG
+59,Dra. Vitória Santos,Smartphone,Eletrônicos,3,2320.57,2025-05-28,MG
+60,Maria Peixoto,Tênis,Calçados,3,2535.54,2025-06-11,SP
+61,Dra. Luna Silva,Blusa,Vestuário,5,1084.13,2025-06-16,RS
+62,Ana Beatriz Cardoso,Sandália,Calçados,4,329.41,2025-05-26,RS
+63,Miguel Cunha,Creme,Beleza,2,2325.15,2025-06-04,SP
+64,Caio da Cruz,Blusa,Vestuário,4,584.93,2025-06-11,PR
+65,Clara Fogaça,Jaqueta,Vestuário,5,2225.27,2025-06-12,PR
+66,Luana Cardoso,Ficção,Livros,2,1777.98,2025-05-27,MG
+67,Maria Cecília Peixoto,Jaqueta,Vestuário,1,1872.99,2025-05-29,RJ
+68,Valentina da Luz,Relógio,Acessórios,1,546.16,2025-06-03,PR
+69,Dr. Luiz Gustavo Alves,Perfume,Beleza,5,1459.92,2025-06-08,MG
+70,Dr. Yuri da Mota,Monitor,Eletrônicos,1,2712.13,2025-06-16,SP
+71,Sr. Yago Sales,Carteira,Acessórios,1,529.53,2025-06-08,RS
+72,Luana Rodrigues,Tênis,Calçados,5,1274.48,2025-05-21,RJ
+73,Eduardo Gomes,Smartphone,Eletrônicos,2,236.97,2025-06-18,BA
+74,Srta. Sophia Pires,Ficção,Livros,3,26.77,2025-05-30,PR
+75,Maria Alice Nunes,Shampoo,Beleza,1,1943.51,2025-05-25,MG
+76,Manuela Silva,Ficção,Livros,1,1151.03,2025-05-24,RJ
+77,Pietro Teixeira,Perfume,Beleza,3,2757.7,2025-06-08,RS
+78,Brenda Fogaça,Monitor,Eletrônicos,1,2496.7,2025-06-01,RJ
+79,Joaquim Moreira,Blusa,Vestuário,5,2051.48,2025-05-27,MG
+80,Luiz Gustavo Pinto,Ficção,Livros,4,1217.25,2025-06-10,SP
+81,Dra. Maria Dias,Shampoo,Beleza,5,529.83,2025-05-23,PR
+82,Paulo Correia,Romance,Livros,4,395.84,2025-05-28,PR
+83,Sr. Nicolas Vieira,Perfume,Beleza,4,1513.08,2025-05-31,SP
+84,Srta. Ana Beatriz Novaes,Tênis,Calçados,5,697.11,2025-05-31,RS
+85,Vicente Oliveira,Relógio,Acessórios,4,921.0,2025-06-04,BA
+86,Emanuelly da Paz,Sandália,Calçados,2,80.5,2025-06-08,RS
+87,Sr. Noah Lima,Calça,Vestuário,3,1831.82,2025-06-16,SP
+88,Cauê Aragão,Blusa,Vestuário,1,1358.82,2025-06-15,RJ
+89,Benício Moraes,Perfume,Beleza,2,1695.93,2025-06-16,RJ
+90,João Lucas da Cunha,Tênis,Calçados,1,950.07,2025-05-28,MG
+91,Camila Moreira,Romance,Livros,3,922.52,2025-06-10,RJ
+92,Nicole Alves,Bota,Calçados,5,1962.48,2025-06-07,MG
+93,Rebeca Rezende,Carteira,Acessórios,5,2721.51,2025-06-10,RJ
+94,Srta. Lara Ramos,Bota,Calçados,1,806.41,2025-06-07,PR
+95,Caroline Farias,Carteira,Acessórios,4,1387.0,2025-06-15,RS
+96,Laís Martins,Mochila,Acessórios,5,2296.84,2025-06-12,MG
+97,Cecília Costela,Notebook,Eletrônicos,4,1940.89,2025-05-28,SP
+98,Emanuella Dias,Creme,Beleza,3,2135.49,2025-05-22,MG
+99,Ana Clara Cardoso,Relógio,Acessórios,2,867.79,2025-05-20,RS
+100,Raul Silva,Shampoo,Beleza,1,2060.32,2025-05-21,PR

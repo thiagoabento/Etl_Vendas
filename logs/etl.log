@@ -1,0 +1,226 @@
+2025-06-22 15:27:51,919 - INFO - ==== Início do ETL ====
+2025-06-22 15:27:52,068 - INFO - 4 registros extraídos
+2025-06-22 15:27:52,145 - INFO - 2 registros após transformação
+2025-06-22 15:27:52,307 - INFO - 2 registros carregados na tabela pessoas
+2025-06-22 15:27:52,309 - INFO - ==== Fim do ETL ====
+2025-06-22 15:30:41,040 - INFO - ==== Início do ETL ====
+2025-06-22 15:30:41,068 - INFO - 100 registros extraídos
+2025-06-22 15:40:40,296 - INFO - ==== Início do ETL ====
+2025-06-22 15:40:40,395 - INFO - 100 registros extraídos
+2025-06-22 15:44:52,994 - INFO - ==== Início do ETL ====
+2025-06-22 15:44:53,003 - INFO - 100 registros extraídos
+2025-06-22 15:50:13,158 - INFO - ==== Início do ETL ====
+2025-06-22 15:51:18,181 - INFO - ==== Início do ETL ====
+2025-06-22 15:52:46,228 - INFO - ==== Início do ETL ====
+2025-06-22 15:54:31,056 - INFO - ==== Início do ETL ====
+2025-06-22 15:54:31,079 - INFO - 100 registros extraídos
+2025-06-22 15:54:31,177 - INFO - ==== Fim do ETL ====
+2025-06-22 15:55:22,005 - INFO - ==== Início do ETL ====
+2025-06-22 15:55:22,014 - INFO - 100 registros extraídos
+2025-06-22 15:55:22,014 - INFO - ==== Fim do ETL ====
+2025-06-22 15:57:17,984 - INFO - ==== Início do ETL ====
+2025-06-22 15:57:17,994 - INFO - 100 registros extraídos
+2025-06-22 15:57:17,998 - INFO - 84 registros após transformação
+2025-06-22 15:57:17,998 - INFO - ==== Fim do ETL ====
+2025-06-22 15:58:08,697 - INFO - ==== Início do ETL ====
+2025-06-22 15:58:08,706 - INFO - 100 registros extraídos
+2025-06-22 15:58:08,710 - INFO - 84 registros após transformação
+2025-06-22 15:58:08,941 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 15:58:08,942 - INFO - ==== Fim do ETL ====
+2025-06-22 16:03:50,698 - INFO - ==== Início do ETL ====
+2025-06-22 16:03:50,710 - INFO - 100 registros extraídos
+2025-06-22 16:03:50,715 - INFO - 84 registros após transformação
+2025-06-22 16:03:51,002 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 16:03:51,002 - INFO - ==== Fim do ETL ====
+2025-06-22 16:07:46,806 - INFO - ==== Início do ETL ====
+2025-06-22 16:07:46,815 - INFO - 100 registros extraídos
+2025-06-22 16:07:46,821 - INFO - 84 registros após transformação
+2025-06-22 16:07:47,083 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 16:07:47,084 - INFO - ==== Fim do ETL ====
+2025-06-22 16:15:42,320 - INFO - ==== Início do ETL ====
+2025-06-22 16:15:42,336 - INFO - 100 registros extraídos
+2025-06-22 16:28:32,125 - INFO - ==== Início do ETL ====
+2025-06-22 16:28:32,282 - INFO - 100 registros extraídos
+2025-06-22 16:28:32,345 - INFO - 84 registros após transformação
+2025-06-22 16:28:32,666 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 16:28:32,667 - INFO - ==== Fim do ETL ====
+2025-06-22 17:37:44,079 - INFO - ==== Início do ETL ====
+2025-06-22 17:37:44,196 - INFO - 100 registros extraídos
+2025-06-22 17:37:44,334 - INFO - 84 registros após transformação
+2025-06-22 17:37:44,669 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 17:37:44,794 - INFO - Erro no processo: near "estado": syntax error
+2025-06-22 17:37:44,795 - INFO - Conexão finalizada...
+2025-06-22 17:37:44,796 - INFO - ==== Fim do ETL ====
+2025-06-22 17:47:43,324 - INFO - ==== Início do ETL ====
+2025-06-22 17:47:43,334 - INFO - 100 registros extraídos
+2025-06-22 17:47:43,343 - INFO - 84 registros após transformação
+2025-06-22 17:47:43,559 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 17:47:43,563 - INFO - Erro no processo: table resuvendasest already exists
+2025-06-22 17:47:43,564 - INFO - Conexão finalizada...
+2025-06-22 17:47:43,565 - INFO - ==== Fim do ETL ====
+2025-06-22 17:48:20,436 - INFO - ==== Início do ETL ====
+2025-06-22 17:48:20,446 - INFO - 100 registros extraídos
+2025-06-22 17:48:20,455 - INFO - 84 registros após transformação
+2025-06-22 17:48:20,733 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 17:48:20,998 - INFO - Processo executado com sucesso!!
+2025-06-22 17:48:20,998 - INFO - Conexão finalizada...
+2025-06-22 17:48:20,999 - INFO - ==== Fim do ETL ====
+2025-06-22 18:00:44,983 - INFO - ==== Início do ETL ====
+2025-06-22 18:00:45,121 - INFO - 100 registros extraídos
+2025-06-22 18:00:45,257 - INFO - 84 registros após transformação
+2025-06-22 18:00:45,649 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 18:00:46,291 - INFO - Processo executado com sucesso!!
+2025-06-22 18:00:46,292 - INFO - Conexão finalizada...
+2025-06-22 18:00:46,400 - INFO - Ocorreu erro no processo: no such column: total
+2025-06-22 18:00:46,401 - INFO - Conexão finalizada...
+2025-06-22 18:00:46,401 - INFO - ==== Fim do ETL ====
+2025-06-22 18:02:34,001 - INFO - ==== Início do ETL ====
+2025-06-22 18:02:34,087 - INFO - 100 registros extraídos
+2025-06-22 18:02:34,143 - INFO - 84 registros após transformação
+2025-06-22 18:02:34,578 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 18:02:34,877 - INFO - Processo executado com sucesso!!
+2025-06-22 18:02:34,880 - INFO - Conexão finalizada...
+2025-06-22 18:02:35,056 - INFO - Ocorreu erro no processo: 'sqlite3.Cursor' object has no attribute 'commit'
+2025-06-22 18:02:35,057 - INFO - Conexão finalizada...
+2025-06-22 18:02:35,058 - INFO - ==== Fim do ETL ====
+2025-06-22 18:03:18,579 - INFO - ==== Início do ETL ====
+2025-06-22 18:03:18,590 - INFO - 100 registros extraídos
+2025-06-22 18:03:18,601 - INFO - 84 registros após transformação
+2025-06-22 18:03:18,869 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 18:03:19,132 - INFO - Processo executado com sucesso!!
+2025-06-22 18:03:19,135 - INFO - Conexão finalizada...
+2025-06-22 18:03:19,334 - INFO - Processo executado com sucesso!!
+2025-06-22 18:03:19,335 - INFO - Conexão finalizada...
+2025-06-22 18:03:19,336 - INFO - ==== Fim do ETL ====
+2025-06-22 18:17:07,601 - INFO - ==== Início do ETL ====
+2025-06-22 18:17:07,743 - INFO - 100 registros extraídos
+2025-06-22 18:17:07,992 - INFO - 84 registros após transformação
+2025-06-22 18:17:08,482 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 18:17:08,735 - INFO - Processo executado com sucesso!!
+2025-06-22 18:17:08,737 - INFO - Conexão finalizada...
+2025-06-22 18:17:08,974 - INFO - Processo executado com sucesso!!
+2025-06-22 18:17:08,975 - INFO - Conexão finalizada...
+2025-06-22 18:17:08,977 - INFO - ==== Fim do ETL ====
+2025-06-22 18:18:56,516 - INFO - ==== Início do ETL ====
+2025-06-22 18:18:56,525 - INFO - 100 registros extraídos
+2025-06-22 18:19:45,522 - INFO - ==== Início do ETL ====
+2025-06-22 18:19:45,536 - INFO - 100 registros extraídos
+2025-06-22 18:19:45,564 - INFO - 84 registros após transformação
+2025-06-22 18:19:46,086 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 18:19:46,627 - INFO - Processo executado com sucesso!!
+2025-06-22 18:19:46,632 - INFO - Conexão finalizada...
+2025-06-22 18:19:47,514 - INFO - Processo executado com sucesso!!
+2025-06-22 18:19:47,514 - INFO - Conexão finalizada...
+2025-06-22 18:19:47,515 - INFO - ==== Fim do ETL ====
+2025-06-22 18:20:17,646 - INFO - ==== Início do ETL ====
+2025-06-22 18:20:17,657 - INFO - 100 registros extraídos
+2025-06-22 18:20:17,679 - INFO - 84 registros após transformação
+2025-06-22 18:20:18,024 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 18:20:18,278 - INFO - Processo executado com sucesso!!
+2025-06-22 18:20:18,278 - INFO - Conexão finalizada...
+2025-06-22 18:20:18,626 - INFO - Processo executado com sucesso!!
+2025-06-22 18:20:18,626 - INFO - Conexão finalizada...
+2025-06-22 18:20:18,626 - INFO - ==== Fim do ETL ====
+2025-06-22 18:44:36,057 - INFO - ==== Início do ETL ====
+2025-06-22 18:44:36,108 - INFO - 100 registros extraídos
+2025-06-22 18:44:36,166 - INFO - 84 registros após transformação
+2025-06-22 18:44:36,572 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 18:44:36,827 - INFO - Processo executado com sucesso!!
+2025-06-22 18:44:36,828 - INFO - Conexão finalizada...
+2025-06-22 18:44:37,064 - INFO - Processo executado com sucesso!!
+2025-06-22 18:44:37,065 - INFO - Conexão finalizada...
+2025-06-22 18:44:37,066 - INFO - ==== Fim do ETL ====
+2025-06-22 18:45:07,745 - INFO - ==== Início do ETL ====
+2025-06-22 18:45:07,758 - INFO - 100 registros extraídos
+2025-06-22 18:45:07,796 - INFO - 84 registros após transformação
+2025-06-22 18:45:08,243 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 18:45:08,816 - INFO - Processo executado com sucesso!!
+2025-06-22 18:45:08,817 - INFO - Conexão finalizada...
+2025-06-22 18:45:09,079 - INFO - Processo executado com sucesso!!
+2025-06-22 18:45:09,079 - INFO - Conexão finalizada...
+2025-06-22 18:45:09,080 - INFO - ==== Fim do ETL ====
+2025-06-22 18:45:36,764 - INFO - ==== Início do ETL ====
+2025-06-22 18:45:36,776 - INFO - 100 registros extraídos
+2025-06-22 18:45:36,802 - INFO - 84 registros após transformação
+2025-06-22 18:45:37,081 - INFO - 84 registros carregados na tabela vendas
+2025-06-22 18:45:37,313 - INFO - Processo executado com sucesso!!
+2025-06-22 18:45:37,314 - INFO - Conexão finalizada...
+2025-06-22 18:45:37,557 - INFO - Processo executado com sucesso!!
+2025-06-22 18:45:37,557 - INFO - Conexão finalizada...
+2025-06-22 18:45:37,558 - INFO - ==== Fim do ETL ====
+2025-06-23 13:11:44,654 - INFO - ==== Início do ETL ====
+2025-06-23 13:11:44,799 - INFO - 100 registros extraídos
+2025-06-23 13:11:45,014 - INFO - 84 registros após transformação
+2025-06-23 13:11:45,570 - INFO - 84 registros carregados na tabela vendas
+2025-06-23 13:11:45,866 - INFO - Processo executado com sucesso!!
+2025-06-23 13:11:45,867 - INFO - Conexão finalizada...
+2025-06-23 13:11:46,113 - INFO - Processo executado com sucesso!!
+2025-06-23 13:11:46,114 - INFO - Conexão finalizada...
+2025-06-23 13:11:51,727 - INFO - Dados inseridos com sucesso na tabela vendas
+2025-06-23 13:14:09,254 - INFO - ==== Início do ETL ====
+2025-06-23 13:14:09,263 - INFO - 100 registros extraídos
+2025-06-23 13:14:09,283 - INFO - 84 registros após transformação
+2025-06-23 13:14:09,559 - INFO - 84 registros carregados na tabela vendas
+2025-06-23 13:14:09,844 - INFO - Processo executado com sucesso!!
+2025-06-23 13:14:09,845 - INFO - Conexão finalizada...
+2025-06-23 13:14:10,124 - INFO - Processo executado com sucesso!!
+2025-06-23 13:14:10,124 - INFO - Conexão finalizada...
+2025-06-23 13:14:12,148 - INFO - Dados inseridos com sucesso na tabela vendas
+2025-06-23 13:14:12,148 - INFO - ==== Fim do ETL ====
+2025-06-23 15:12:49,641 - INFO - ==== Início do ETL ====
+2025-06-23 15:12:49,823 - INFO - 100 registros extraídos
+2025-06-23 15:12:50,039 - INFO - 84 registros após transformação
+2025-06-23 15:12:50,594 - INFO - 84 registros carregados na tabela vendas
+2025-06-23 15:12:50,867 - INFO - Processo executado com sucesso!!
+2025-06-23 15:12:50,868 - INFO - Conexão finalizada...
+2025-06-23 15:12:51,178 - INFO - Processo executado com sucesso!!
+2025-06-23 15:12:51,179 - INFO - Conexão finalizada...
+2025-06-23 15:12:55,277 - INFO - Dados inseridos com sucesso na tabela vendas
+2025-06-23 15:12:55,277 - INFO - ==== Fim do ETL ====
+2025-06-23 15:18:23,984 - INFO - ==== Início do ETL ====
+2025-06-23 15:18:24,034 - INFO - 100 registros extraídos
+2025-06-23 15:18:24,063 - INFO - 84 registros após transformação
+2025-06-23 15:18:24,600 - INFO - 84 registros carregados na tabela vendas
+2025-06-23 15:18:24,917 - INFO - Processo executado com sucesso!!
+2025-06-23 15:18:24,919 - INFO - Conexão finalizada...
+2025-06-23 15:18:25,212 - INFO - Processo executado com sucesso!!
+2025-06-23 15:18:25,213 - INFO - Conexão finalizada...
+2025-06-23 15:18:26,447 - INFO - Dados inseridos com sucesso na tabela vendas
+2025-06-23 15:18:26,447 - INFO - ==== Fim do ETL ====
+2025-06-23 15:45:16,733 - INFO - ==== Início do ETL ====
+2025-06-23 15:45:16,817 - INFO - 100 registros extraídos
+2025-06-23 15:45:16,891 - INFO - 84 registros após transformação
+2025-06-23 15:45:17,108 - INFO - 84 registros carregados na tabela vendas
+2025-06-23 15:45:17,311 - INFO - Processo executado com sucesso!!
+2025-06-23 15:45:17,312 - INFO - Conexão finalizada...
+2025-06-23 15:45:17,500 - INFO - Processo executado com sucesso!!
+2025-06-23 15:45:17,501 - INFO - Conexão finalizada...
+2025-06-23 15:45:21,133 - INFO - Dados inseridos com sucesso na tabela vendas com 84 registros
+2025-06-23 15:45:21,134 - INFO - ==== Fim do ETL ====
+2025-06-23 15:47:05,861 - INFO - ==== Início do ETL ====
+2025-06-23 15:47:05,871 - INFO - 100 registros extraídos
+2025-06-23 15:47:05,892 - INFO - 84 registros após transformação
+2025-06-23 15:47:06,498 - INFO - 84 registros carregados na tabela vendas
+2025-06-23 15:47:06,856 - INFO - Processo executado com sucesso!!
+2025-06-23 15:47:06,857 - INFO - Conexão finalizada...
+2025-06-23 15:47:07,011 - INFO - Processo executado com sucesso!!
+2025-06-23 15:47:07,012 - INFO - Conexão finalizada...
+2025-06-23 15:47:08,848 - INFO - Dados inseridos com sucesso na tabela vendas com 84 registros
+2025-06-23 15:47:08,848 - INFO - ==== Fim do ETL ====
+2025-06-23 17:40:35,580 - INFO - -- Iniciando ETL --
+2025-06-23 17:40:35,589 - INFO - Ocorreu erro no job ETL: configuraLogJob() takes 0 positional arguments but 1 was given
+2025-06-23 17:43:37,679 - INFO - -- Iniciando ETL --
+2025-06-23 17:43:37,689 - INFO - Arquivo processado com sucesso no caminho: data/vendas_loja.csv
+2025-06-23 17:43:37,690 - INFO - Ocorreu erro no job ETL: configuraLogJob() takes 0 positional arguments but 1 was given
+2025-06-23 17:44:53,681 - INFO - -- Iniciando ETL --
+2025-06-23 17:44:53,749 - INFO - Arquivo processado com sucesso no caminho: data/vendas_loja.csv
+2025-06-23 17:44:53,749 - INFO - 100 registros extraídos
+2025-06-23 17:44:53,897 - INFO - Transformação de dados concluído com sucesso...
+2025-06-23 17:44:53,898 - INFO - 84 registros após transformação
+2025-06-23 17:44:54,341 - INFO - 84 registros carregados na tabela vendas
+2025-06-23 17:44:54,668 - INFO - Processo executado com sucesso!!
+2025-06-23 17:44:54,669 - INFO - Conexão finalizada...
+2025-06-23 17:44:54,934 - INFO - Processo executado com sucesso!!
+2025-06-23 17:44:54,934 - INFO - Conexão finalizada...
+2025-06-23 17:45:03,253 - INFO - Dados inseridos com sucesso na tabela vendas com 84 registros
+2025-06-23 17:45:03,253 - INFO - -- ETL Finalizada com sucesso --
