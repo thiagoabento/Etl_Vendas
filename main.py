@@ -21,9 +21,6 @@ def run_etl():
           df_transformed = transform_data(df)
           logging.info(f'{len(df_transformed)} registros após transformação')
 
-         # Carga de dados
-          load_data(df_transformed)
-
          #Carga de dados postgree
           save_total_vendas(df_transformed)
 

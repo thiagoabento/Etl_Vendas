@@ -1,7 +1,6 @@
 import pandas as pd
 import logging
 
-
 def transform_data(df):
     try:
         df = df[df['preco_unitario'] > 500]
@@ -35,7 +34,7 @@ def incluir_observacao(df):
     return df
 
 def formatar_data(df):
-    df['data_pedido'] = pd.to_datetime(df['data_pedido'])
+    #df['data_pedido'] = pd.to_datetime(df['data_pedido'])
     df['data_pedido'] = df['data_pedido'].dt.strftime('%d/%m/%y')
     return df
 
