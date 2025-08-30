@@ -7,6 +7,7 @@ Tecnologias utilizadas
 - **Python 3.8+**
 - **Pandas**: manipulação e transformação de dados
 - **SQLite**: banco de dados local
+- **DBBrowser**: DBMS utilizado para visualização dos dados.
 - **CSV**: formato de dados de entrada
 
 ```text
