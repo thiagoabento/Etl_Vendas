@@ -1,39 +1,42 @@
 from etl.extract import extract_data
 from etl.transform import transform_data
-from etl.load import load_data
-from etl.load import total_por_estado
-from etl.load import total_por_categoria
+from etl.transform import incluir_dados_agrupados_estado
+from etl.transform import calcula_ticket_medio
+from etl.transform import calcula_total_por_produto
+from etl.load import load_data_vendasecommerce
+from etl.load import  load_data_total_por_estado
+from etl.load import load_data_ticket_medio
+from etl.load import load_data_total_por_produto
 from etl.utils import setup_logging
-from etl.load import save_total_vendas, save_total_por_estado, save_total_por_categoria
+
+
 import logging
 
 
 def run_etl():
      try:
           setup_logging()
-          logging.info('-- Iniciando ETL --')
+          logging.info('## Iniciando ETL ##')
 
-         # Extração
           df = extract_data()
           logging.info(f'{len(df)} registros extraídos')
 
-         # Trasformação
-          df_transformed = transform_data(df)
-          logging.info(f'{len(df_transformed)} registros após transformação')
+          df_limpeza = transform_data(df)
+          logging.info(f'{len(df_limpeza)} registros após transformação')
 
-         #Carga de dados postgree
-          save_total_vendas(df_transformed)
+          load_data_vendasecommerce(df_limpeza)
 
-          #Agrupa as vendas por estado
-          save_total_por_estado(df)
+          load_data_total_por_estado(incluir_dados_agrupados_estado())
 
-          #Soma o total e agrupa por categoria
-          save_total_por_categoria(df)
+          load_data_ticket_medio(calcula_ticket_medio())
 
-          logging.info('-- ETL Finalizada com sucesso --')
+          load_data_total_por_produto(calcula_total_por_produto())
+
+          logging.info('## ETL finalizada ##')
 
      except Exception as e:
-          logging.info(f'Ocorreu erro no job ETL: {e}')
+          logging.exception(f'Ocorreu erro no processo ETL: {e}')
 
 if __name__ == "__main__":
     run_etl()
+
