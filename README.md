@@ -9,12 +9,13 @@ Tecnologias utilizadas
 - **SQLite**: banco de dados local
 - **CSV**: formato de dados de entrada
 
+```text
 etl_vendas/
 ├── data/
-│ └── vendas.csv # Arquivo de leitura
+│   └── vendas.csv # Arquivo de leitura
 ├── database/
-│ └── ecommerce.db # Banco SQLite gerado
+│   └── ecommerce.db # Banco SQLite gerado
 ├── scripts/
-│ └── arquivos de leitura, transformação e carregamento na base de dados
+│   └── etl.py # Arquivos de leitura, transformação e carregamento na base de dados
 ├── README.md
 └── requirements.txt # Dependências do projeto
