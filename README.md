@@ -14,7 +14,7 @@ etl_vendas/
 ├── data/
 │   └── vendas.csv # Arquivo de leitura
 ├── database/
-│   └── ecommerce.db # Banco SQLite gerado
+│   └── vendas.db # Banco SQLite gerado
 ├── etl/
 │   └── etl.py # Arquivos de leitura, transformação e carregamento na base de dados
 ├── log/
