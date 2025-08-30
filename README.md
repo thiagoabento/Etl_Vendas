@@ -15,7 +15,9 @@ etl_vendas/
 │   └── vendas.csv # Arquivo de leitura
 ├── database/
 │   └── ecommerce.db # Banco SQLite gerado
-├── scripts/
+├── etl/
 │   └── etl.py # Arquivos de leitura, transformação e carregamento na base de dados
+├── log/
+│   └── job_etl.log # Arquivos de log do processo etl
 ├── README.md
 └── requirements.txt # Dependências do projeto
