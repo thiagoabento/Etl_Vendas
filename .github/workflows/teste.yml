@@ -10,5 +10,5 @@ jobs:
     steps:
       - name: Escrever ola
         run:  echo "Ola Mundo"
-      - name: Escrever dia
+      - name: Escrever data
         run:  echo "4/9/25"
