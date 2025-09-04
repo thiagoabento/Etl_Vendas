@@ -1,0 +1,14 @@
+name: Ola mundo
+
+on:
+  workflow-dispatch
+
+jobs:
+  ola-mundo:
+    runs-on: ubuntu-latest
+
+  steps:
+    - name: Escrever ola
+      run:  echo "Ola Mundo"
+    - name: Escrever dia
+      run:  echo "4/9/25"

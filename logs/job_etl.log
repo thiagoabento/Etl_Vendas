@@ -18,3 +18,13 @@
 2025-08-30 18:48:56,960 - INFO - 1 Registro inserido na tabela ticketmedio
 2025-08-30 18:48:57,248 - INFO - 6 Registros inseridos na tabela totalproduto
 2025-08-30 18:48:57,250 - INFO - ## ETL finalizada ##
+2025-08-30 19:29:37,280 - INFO - ## Iniciando ETL ##
+2025-08-30 19:29:37,403 - INFO - Arquivo processado com sucesso no caminho: data/vendas.csv
+2025-08-30 19:29:37,404 - INFO - 10500 registros extraídos
+2025-08-30 19:29:37,904 - INFO - Transformação de dados concluído com sucesso...
+2025-08-30 19:29:37,905 - INFO - 5448 registros após transformação
+2025-08-30 19:29:38,194 - INFO - 5448 Registros carregados na tabela vendasecommerce
+2025-08-30 19:29:38,487 - INFO - 10 Registros inseridos na tebala totalestado
+2025-08-30 19:29:38,763 - INFO - 1 Registro inserido na tabela ticketmedio
+2025-08-30 19:29:39,195 - INFO - 6 Registros inseridos na tabela totalproduto
+2025-08-30 19:29:39,195 - INFO - ## ETL finalizada ##
