@@ -1,7 +1,7 @@
 name: Ola mundo
 
 on:
-  workflow-dispatch
+  workflow-dispatch:
 
 jobs:
   ola-mundo:
