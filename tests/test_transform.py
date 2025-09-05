@@ -1,5 +1,5 @@
 import pandas as pd
-from etl_vendas_1.etl.transform import incluir_coluna_total
+from etl.transform import incluir_coluna_total
 
 
 def test_transform_data_return_colum_total():
