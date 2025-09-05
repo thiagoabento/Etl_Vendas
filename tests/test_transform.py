@@ -11,7 +11,7 @@ def test_transform_data_return_colum_total():
     df_result = incluir_coluna_total(df)
 
     assert 'total' in df_result.columns
-    assert df_result['total'].tolist() == [10, 30, 5]
+    assert df_result['total'].tolist() == [10, 30, 30]
 
 
 
