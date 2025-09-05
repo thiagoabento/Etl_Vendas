@@ -1,5 +1,6 @@
 import pandas as pd
 from etl.transform import incluir_coluna_total
+from etl_vendas_1.etl.transform import ajustando_valor_negativo
 
 
 def test_transform_data_return_colum_total():
@@ -12,6 +13,20 @@ def test_transform_data_return_colum_total():
 
     assert 'total' in df_result.columns
     assert df_result['total'].tolist() == [10, 30, 30]
+
+def test_ajustando_valor_negativo():
+    df = pd.DataFrame({
+
+        'valores_negativos' : [-2,3-4,6,5]
+
+    })
+
+    valores_esperados = [2.0, 3.0, 6.0, 5.0]
+
+    df_result = ajustando_valor_negativo(df)
+
+    assert df_result['valores_negativos'].tolist() == valores_esperados
+
 
 
 
