@@ -4,7 +4,7 @@ import logging
 from .utils import connection_banco_da_dados
 
 
-def transform_data(df):
+def test_transform_data(df):
     try:
         df = convertendo_literal_em_numeral(df)
         df = ajustando_valor_negativo(df)
