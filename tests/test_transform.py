@@ -17,11 +17,11 @@ def test_transform_data_return_colum_total():
 def test_ajustando_valor_negativo():
     df = pd.DataFrame({
 
-        'quantidade' : [-2,3-4,6,5]
+        'quantidade' : [-2,3,-4,6,5]
 
     })
 
-    valores_esperados = [2.0, 3.0, 6.0, 5.0]
+    valores_esperados = [2.0, 3.0, 4.0, 6.0, 5.0]
 
     df_result = ajustando_valor_negativo(df)
 
