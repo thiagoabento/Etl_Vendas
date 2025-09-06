@@ -17,7 +17,7 @@ def test_transform_data_return_colum_total():
 def test_ajustando_valor_negativo():
     df = pd.DataFrame({
 
-        'valores_negativos' : [-2,3-4,6,5]
+        'quantidade' : [-2,3-4,6,5]
 
     })
 
@@ -25,7 +25,7 @@ def test_ajustando_valor_negativo():
 
     df_result = ajustando_valor_negativo(df)
 
-    assert df_result['valores_negativos'].tolist() == valores_esperados
+    assert df_result['quantidade'].tolist() == valores_esperados
 
 
 
