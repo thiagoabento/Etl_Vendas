@@ -1,6 +1,6 @@
 import pandas as pd
-from etl.transform import incluir_coluna_total
-from etl_vendas_1.etl.transform import ajustando_valor_negativo
+from etl.transform import incluir_coluna_total, ajustando_valor_negativo
+
 
 
 def test_transform_data_return_colum_total():
